@@ -9,12 +9,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=cn" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yinye1986&locale=cn" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&locale=cn" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&layout=compact&locale=cn" />
       </a>
     </td>
   </tr>
