@@ -5,20 +5,13 @@
   <img alt="github-snake" src="https://github.com/Yinye1986/Yinye1986/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yinye1986&locale=cn" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&locale=cn" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yinye1986&locale=cn" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&locale=cn" />
+</a>
 <!--
 **Yinye1986/Yinye1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
