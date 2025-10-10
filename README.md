@@ -5,9 +5,9 @@
   <img alt="github-snake" src="https://github.com/Yinye1986/Yinye1986/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[![shins0u's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&locale=zh-CN)](https://github.com/anuraghazra/github-readme-stats)
+[![shins0u's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&show_icons=true&theme=dark&locale=zh-CN)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&locale=zh-CN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&show_icons=true&theme=dark&locale=zh-CN)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yinye1986/Yinye1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
