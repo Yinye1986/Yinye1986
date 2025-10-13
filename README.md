@@ -4,14 +4,14 @@
 
 <!-- # 📈 Langs & Stats -->
 <!-- ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=300&langs_count=8&layout=compact&hide_progress=false&exclude_repo=) -->
-<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=300) -->
+<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=350) -->
 
 
 # 📈 Langs & Stats
 <table border="0">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=350&langs_count=8&layout=compact&hide_progress=false&exclude_repo=" alt="My Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&langs_count=8&hide=&card_width=350&layout=compact&hide_progress=false&exclude_repo=" alt="My Langs"/>
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=350" alt="My Stats"/>
