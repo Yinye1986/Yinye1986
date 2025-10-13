@@ -5,16 +5,21 @@
 <!-- # 📈 Langs & Stats -->
 <!-- ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=300&langs_count=8&layout=compact&hide_progress=false&exclude_repo=) -->
 <!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=300) -->
-<table border="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=400&langs_count=8&layout=compact&hide_progress=false&exclude_repo=" alt="My Langs"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=400" alt="My Stats"/>
-    </td>
-  </tr>
-</table>
+
+<!-- <table border="0"> -->
+  <!-- <tr> -->
+    <!-- <td valign="top"> -->
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=400&langs_count=8&layout=compact&hide_progress=false&exclude_repo=" alt="My Langs"/> -->
+    <!-- </td> -->
+    <!-- <td valign="top"> -->
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=400" alt="My Stats"/> -->
+    <!-- </td> -->
+  <!-- </tr> -->
+<!-- </table> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=600&langs_count=8&layout=compact&hide_progress=false&exclude_repo=" alt="My Langs"/>
+  &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=600" alt="My Stats"/>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
