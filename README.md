@@ -10,7 +10,7 @@
 # 📈 Langs & Stats
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=&hide_progress=true" alt="My Langs" style="width: 48%; height: auto; object-fit: cover;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=" alt="My Langs" style="width: 48%; height: auto; object-fit: cover;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=350&line_height=25&show_icons=true&theme=rose&count_private=true" alt="My Stats" style="width: 48%; height: auto; object-fit: cover;"/>
 </div>
 
