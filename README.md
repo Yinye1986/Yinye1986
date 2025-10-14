@@ -12,16 +12,28 @@
 <div style="display: flex; justify-content: space-between;">
     <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=&hide_progress=false&theme=rose_pine"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=&hide_progress=false&theme=rose"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=&hide_progress=false&theme=rose"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=&hide_progress=false&theme=ambient_gradient"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=&hide_progress=false&theme=rose_pine" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=350&langs_count=8&exclude_repo=&hide_progress=false&theme=rose" />
     </picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=350&line_height=25&show_icons=true&theme=rose&count_private=true" alt="My Stats"/>
+        <picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=350&line_height=25&show_icons=true&count_private=true&theme=rose"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=350&line_height=25&show_icons=true&count_private=true&theme=ambient_gradient"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=350&line_height=25&show_icons=true&count_private=true&theme=rose" />
+    </picture>
+
+    <img src="" alt="My Stats"/>
 </div>
 
 - 🔭 I’m currently working on ...
