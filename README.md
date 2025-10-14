@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&langs_count=8&hide=&card_width=350&layout=compact&hide_progress=false&exclude_repo=" alt="My Langs"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=Gradient&count_private=true&card_width=350" alt="My Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986$hide=null&hide_title=true&card_width=350&line_height=25&show_icons=true&theme=Gradient&count_private=true" alt="My Stats"/>
 </div>
 
 - 🔭 I’m currently working on ...
