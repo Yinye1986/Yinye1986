@@ -3,7 +3,7 @@
 ![github snake dark mode](https://raw.githubusercontent.com/Yinye1986/Yinye1986/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- # 📈 Langs & Stats -->
-<!-- ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=500&langs_count=8&layout=compact&hide_progress=false&exclude_repo=) -->
+<!-- ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=400&langs_count=8&layout=compact&hide_progress=false&exclude_repo=) -->
 <!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=500) -->
 
 
