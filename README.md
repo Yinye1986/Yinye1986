@@ -5,7 +5,7 @@
 # 📈 Langs & Stats
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=407&langs_count=8&exclude_repo=&hide_progress=false" alt="My Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=406&langs_count=8&exclude_repo=&hide_progress=false" alt="My Langs"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=437&show_icons=true&count_private=true&theme=ambient_gradient" alt="My Stats"/>
 </div>
 
