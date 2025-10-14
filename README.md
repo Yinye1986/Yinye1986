@@ -2,16 +2,15 @@
 ![github snake light mode](https://raw.githubusercontent.com/Yinye1986/Yinye1986/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github snake dark mode](https://raw.githubusercontent.com/Yinye1986/Yinye1986/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<!-- # 📈 Langs & Stats -->
-<!-- ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&card_width=300&langs_count=8&layout=compact&hide_progress=false&exclude_repo=) -->
-<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=350) -->
+# 📈 Langs & Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=350)
 
 
 # 📈 Langs & Stats
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&langs_count=8&hide=&card_width=350&layout=compact&hide_progress=false&exclude_repo=" alt="My Langs"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=ambient_gradient&count_private=true&card_width=350" alt="My Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide_title=true&show_icons=true&theme=Gradient&count_private=true&card_width=350" alt="My Stats"/>
 </div>
 
 - 🔭 I’m currently working on ...
