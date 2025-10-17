@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinye1986&hide=&layout=compact&card_width=388&langs_count=8&exclude_repo=&hide_progress=false" alt="My Langs"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=437&line_height=29.2&show_icons=true&count_private=true&theme=ambient_gradient" alt="My Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Yinye1986&hide=&hide_title=true&card_width=437&line_height=29.4&show_icons=true&count_private=true&theme=ambient_gradient" alt="My Stats"/>
 </div>
 
 
